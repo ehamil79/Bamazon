@@ -20,7 +20,7 @@ This command will search the [_Bands in Town Artist Events_](https://artists.ban
 * Venue location,
 * Date of the Event.
 
-![](./images/concert-this.PN)
+![](./images/concert-this.PNG)
 
 (2) `spotify-this-song <song name here>`: This command uses [_Spotify API_](https://developer.spotify.com/documentation/web-api/) to fetch details like, 
 * Song name
